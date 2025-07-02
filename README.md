@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Towfik</h1>
 <h3 align="center">Full Stack Developer passionate about crafting dynamic and responsive web applications. Quick learner with strong backend (Django) and frontend (React, Tailwind CSS) skills.</h3>
 
-- 🛒 A full-featured e-commerce platform with product catalog, cart system, and secure checkout. Built using Django and React with JWT authentication. [E-commerce Website](https://phi-mart-client-rho.vercel.app/)
-- 💬 A real-time chat app using Django Channels and WebSockets for messaging, user search, and auto-refresh conversation. [Chat Application](https://chat-fonent.vercel.app/)
+- 🛒 A full-featured e-commerce platform with product catalog, cart system, and secure checkout. Built using Django and React with JWT authentication. [E-commerce Website](https://myshopbooks.vercel.app)
+- 💬 A real-time chat app using Django Channels and WebSockets for messaging, user search, and auto-refresh conversation. [Chat Application](https://chat-fonent.vercel.app)
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://my-porfolio-beta-sable.vercel.app/)
 - 📫 How to reach me: **mjtowfik659672@gmail.com**
