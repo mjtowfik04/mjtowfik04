@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at: [Portfolio](https://my-porfolio-beta-sable.vercel.app/)
 - 📫 How to reach me: **mjtowfik659672@gmail.com**
-- 📄 Know about my experiences: [CV](https://my-cv-three-xi.vercel.app/)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1etIpL9CsSTNVqgaD6uKh3VwcjB6Ob1OE/view?usp=sharing)
 
 ---
 
