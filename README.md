@@ -1,16 +1,17 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Towfik</h1>
-<h3 align="center">Full Stack Developer passionate about crafting dynamic and responsive web applications. Quick learner with strong backend (Django) and frontend (React, Tailwind CSS) skills.</h3>
+<h3 align="center">Backend Developer with expertise in Django and database management. Experienced in building secure and scalable RESTful APIs. Strong understanding of backend logic, authentication, and data modeling. Basic knowledge of React and Tailwind CSS for smooth team collaboration.</h3>
 
-- 🛒 A full-featured e-commerce platform with product catalog, cart system, and secure checkout. Built using Django and React with JWT authentication. [E-commerce Website](https://myshopbooks.vercel.app)
-- 💬 A real-time chat app using Django Channels and WebSockets for messaging, user search, and auto-refresh conversation. [Chat Application](https://chat-fonent.vercel.app)
-
-- 👨‍💻 All of my projects are available at: [Portfolio](https://my-porfolio-beta-sable.vercel.app/)
-- 📫 How to reach me: **mjtowfik659672@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1etIpL9CsSTNVqgaD6uKh3VwcjB6Ob1OE/view?usp=sharing)
+- ⚙️ **Backend-focused developer** experienced in designing RESTful APIs and managing databases.  
+- 🔒 Skilled in authentication, authorization, and backend logic optimization using **Django & DRF**.  
+- 💬 Built a real-time **Chat App** using Django Channels and WebSockets. [View Project](https://chat-fonent.vercel.app)  
+- 🛒 Developed an **E-commerce platform** with JWT authentication and secure checkout. [View Project](https://myshopbooks.vercel.app)  
+- 👨‍💻 Portfolio: [Visit Here](https://my-porfolio-beta-sable.vercel.app/)  
+- 📫 Reach me: **mjtowfik659672@gmail.com**  
+- 📄 CV: [Download](https://drive.google.com/file/d/12eheRcp7cUwwwuyhh0HH7QmvnyUWas8p/view?usp=sharing)
 
 ---
 
@@ -18,19 +19,19 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/DRF-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -49,7 +50,7 @@
 
 ---
 
-## 🌐 Connect with Me 🍬
+## 🌐 Connect with Me
 
 <div align="center">
 
